@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BottomBar.iml" filepath="$PROJECT_DIR$/BottomBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BottomBarView.iml" filepath="$PROJECT_DIR$/BottomBarView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bottom-bar/bottom-bar.iml" filepath="$PROJECT_DIR$/bottom-bar/bottom-bar.iml" />
+      <module fileurl="file://C:\android\projects\BottomBarView\bottombar\bottom-bar.iml" filepath="C:\android\projects\BottomBarView\bottombar\bottom-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottombar/bottombar.iml" filepath="$PROJECT_DIR$/bottombar/bottombar.iml" />
     </modules>
   </component>
 </project>

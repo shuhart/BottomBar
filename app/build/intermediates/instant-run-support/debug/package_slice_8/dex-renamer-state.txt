@@ -1,0 +1,4 @@
+#Thu Jan 04 21:56:45 MSK 2018
+base.0=C\:\\android\\projects\\BottomBarView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

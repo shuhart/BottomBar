@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\android\\projects\\BottomBarView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land-v21\\values-land-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\android\\projects\\BottomBarView\\app\\src\\main\\res\\values-land-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

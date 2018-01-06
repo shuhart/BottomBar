@@ -17,6 +17,9 @@
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:layout_alignParentBottom="true"
-        app:bb_tabXmlResource="@xml/bottombar_tabs_three" />
+        app:bb_tabXmlResource="@xml/bottombar_tabs_color_changing"
+        app:bb_showShadow="false"
+        app:bb_activeTabAlpha="1"
+        app:bb_behavior="shifting"/>
 
 </RelativeLayout>
